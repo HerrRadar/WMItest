@@ -1,0 +1,13 @@
+Codes:
+0x1
+0x2
+0x3
+
+Code 0x1
+Failed to initialize COM Library
+
+Code 0x2
+Failed to initalize security
+
+Code 0x3
+Failed to create IWbemLocator object.
